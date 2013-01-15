@@ -2,7 +2,7 @@
 Plugin Name: Background Per Page
 Plugin URI: http://fishcantwhistle.com
 Author: Fish Can't Whistle
-Version: 0.3a
+Version: 0.4
 */
 
 if (!defined("BPP_url")) { define("BPP_url", WP_PLUGIN_URL.'/background-per-page'); } //NO TRAILING SLASH

@@ -1,6 +1,7 @@
 <?php /*
 Plugin Name: Background Per Page
 Plugin URI: http://fishcantwhistle.com
+Description: Add background image to the post or page in the content, html or body of the page.
 Author: Fish Can't Whistle
 Version: 0.4
 */
